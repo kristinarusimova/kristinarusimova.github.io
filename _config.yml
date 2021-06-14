@@ -13,8 +13,6 @@ url: "https://kristinarusimova.github.io" # the base hostname & protocol for you
 baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
-github: [metadata]
-
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -80,13 +78,10 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
-  - jekyll-github-metadata
   - jekyll-email-protect
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
-  # - bootstrap
-  # - material-sass
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

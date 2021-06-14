@@ -8,5 +8,3 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
 end
-
-gem "jekyll-github-metadata", "~> 2.13"
