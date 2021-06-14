@@ -10,7 +10,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url: https://people.bath.ac.uk # the base hostname & protocol for your site
-baseurl: /krr22/ # the subpath of your site, e.g. /blog/
+baseurl: /krr22 # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -28,7 +28,7 @@ footer_fixed: false
 github_username: 
 twitter_username: krusimova
 linkedin_username: 
-scholar_userid: c5gzMUAAAAJ
+scholar_userid: _c5gzMUAAAAJ
 orcid_id: 0000-0002-3679-9948
 medium_username: # your Medium username
 quora_username: # your Quora username

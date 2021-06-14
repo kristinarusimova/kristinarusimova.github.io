@@ -1,0 +1,14 @@
+---
+layout: page
+title: The Secret Light of Atoms
+description: >
+    You will use a scanning tunnelling microscope with state-of-the-art automation to study the nanometre and femtosecond dynamics of injected charge-carriers in novel quantum materials – 2D materials & organic molecules.
+location: University of Bath
+img: /assets/img/secret.png
+importance: 1
+years: 2021-
+---
+
+### Controlling and measuring photon emission from single atoms and single molecules
+
+You will use a scanning tunnelling microscope (STM) with state-of-the-art automation to study the nanometre and femtosecond dynamics of injected charge-carriers in novel quantum materials. Specifically their role in controlling the light emission from atomic defects and single organic molecules. Modern optoelectronic devices for light emission and detection rely on physical processes that take place on the nanoscale. With device miniaturisation reaching the single-molecule level, it is of paramount importance to understand the fundamental nanoscale dynamics of the charge-carriers that govern the performance of these devices. Although current optical techniques can probe these ultrafast dynamics, the information they provide is spatially averaged and sensitive to the bulk transport characteristics of the materials. The tip of an STM can inject electrons into a surface with atomic precision and can thus instigate and measure the nanometre transport dynamics of individual charge quanta [1]. This project builds upon our team’s recent breakthrough on silicon, where we showed that it is possible to use the STM to ‘trace’ the dynamics of hot charge-carriers both in real space [2] and in energy [3]. These pioneering experiments gave us a tool to access new physical phenomena that have been inaccessible before, and in a material that has been extensively explored and used in technology for over half a century. Thus, there is significant scope for investigating the dynamics and interactions between hot charge-carriers (electrons), excitons and photons in novel materials. Here the focus will be on novel 2D materials and single organic molecules (C60, dibenzoterrylene) that could have profound implications for solar energy harvesting. The aim of this project is to establish coupled measurement of light emission and atomic manipulation [4], enhanced with spectroscopic and single-photon correlation capabilities. You will be part of both the Photonics and Nanoscience groups at Bath, and there will be strong opportunity for external collaboration. You will gain transferrable skills in lab automation (Python, LabVIEW), ultrahigh vacuum practice, quantum and fibre optics, and 2D materials research. As part of your soft skills training, you will be encouraged to attend summer schools and conferences, and take part in the Department’s outreach portfolio
