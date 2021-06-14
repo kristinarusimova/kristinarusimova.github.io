@@ -1,4 +1,4 @@
-# jtcollins.net
+# kristinarusimova.github.io
 Personal website
 
 ## Notes
