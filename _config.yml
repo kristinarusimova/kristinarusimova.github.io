@@ -1,0 +1,145 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: K. R. Rusimova
+email: k.r.rusimova@bath.ac.uk
+description: > # this means to ignore newlines until "url:"
+  STM and Light
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+
+url: https://people.bath.ac.uk # the base hostname & protocol for your site
+baseurl: /krr22/ # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
+
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
+
+navbar_fixed: false
+footer_fixed: false
+
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: 
+twitter_username: krusimova
+linkedin_username: 
+scholar_userid: c5gzMUAAAAJ
+orcid_id: 0000-0002-3679-9948
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: Kristina_Rusimova
+blogger_url: # your blogger URL
+
+contact_note: 
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Markdown and syntax highlight
+markdown: kramdown
+highlighter: rouge
+highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
+
+# Plug-ins
+plugins:
+  - jekyll-email-protect
+  - jekyll-paginate-v2
+  - jekyll/scholar
+  - jemoji
+  # - bootstrap
+  # - material-sass
+
+# -----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
+
+scholar:
+
+  last_name: Rusimova
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Optional Features
+# -----------------------------------------------------------------------------
+
+enable_google_analytics:  false
+enable_katex:             true
+enable_mansory:           true
+enable_progressbar:       true
+enable_tooltips:          false
+show_social_icons:        false
+
+# -----------------------------------------------------------------------------
+# Library versions
+# -----------------------------------------------------------------------------
+
+academicons:
+  version: "1.8.6"
+bootstrap:
+  version: "4.4.1"
+fontawesome:
+  version: "5.13.0"
+jquery:
+  version: "3.4.1"
+katex:
+  version: "0.11.1"
+mansory:
+  version: "4.2.2"
+mdb:
+  version: "4.19.1"
+popper:
+  version: "2.4.0"

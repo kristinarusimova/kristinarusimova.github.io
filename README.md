@@ -1,2 +1,6 @@
-# kristinarusimova.github.io
-This is my personal website
+# jtcollins.net
+Personal website
+
+## Notes
+
+Adding this just to trigger GH Actions
