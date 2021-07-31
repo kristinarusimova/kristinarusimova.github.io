@@ -7,9 +7,9 @@ location: University of Bath
 years: 2020-
 ---
 
-# YEAR 2020-2021 (PH30036 & PH40065) 
+## YEAR 2020-2021 (PH30036 & PH40065) 
 
-## Controlling the outcome of single molecule reactions 
+### Controlling the outcome of single molecule reactions 
 Students: Louis Remington & Jamie Greenwood 
  
 Much of modern science is built upon our ability not just to “see”, but to “touch” and even “move” individual atoms and molecules. At the heart of this capability is the scanning tunnelling microscope (STM). The original experiments that pioneered atomic manipulation some thirty years ago simply pushed or pulled atoms with the STM tip to spell out atomic adverts, or create quantum corrals. At Bath, we perform manipulation experiments which use the tunnelling electrons from the STM tip to invoke a molecular excitation. It is the natural evolution of the excited molecular state that leads to the final reaction outcome, and so controlling that reaction outcome has not yet been possible. 
@@ -25,9 +25,9 @@ to build such an S2 setup in the lab (see figure below from Nicholson, et al., O
 Much of our research centres on hollow-core fibres. While most fibres guide light by total internal reflection in a solid glass core, hollow-core fibres use an intricate cladding microstructure to confine light to an air core. We modify this microstructure to alter the fibre's guiding properties. In particular, we aim to develop fibres with either low-loss single-mode operation, or controllable coupling to higher-order modes and hence an enhanced interaction with the cladding. This is key for applications like surface-enhanced Raman scattering and thermoplasmonics for quantum technologies, across several projects within the Department. 
  
  
-# YEAR 2018-19 (PH30036 & PH40065) 
+## YEAR 2018-19 (PH30036 & PH40065) 
 
-## Characterising exotic designs of novel hollow-core optical fibres  
+### Characterising exotic designs of novel hollow-core optical fibres  
 **Student: Riley Shurvinton**
  
 Published Papers: 
@@ -44,7 +44,7 @@ For practical applications, one important property that optical fibres must have
  
 The aim of the project is to build an experimental setup that can be used to characterise the polarisation properties of hollow-core fibres and investigate the effects of the surrounding structure on different exotic designs of these fibres. If successful, this work will be the first demonstration of birefringence exhibited by this new generation of anti-resonant hollow-core fibres. 
  
-## Spectroscopy of two-dimensional materials via optical fibres 
+### Spectroscopy of two-dimensional materials via optical fibres 
 
 **Students: Thomas Street & Rosey Fort**
 Laboratory of Prof Daniel Wolverson 
@@ -53,14 +53,14 @@ Since the isolation of graphene, two-dimensional materials have attracted enormo
 The project students will join the Nanoscience Group in Bath, which has pioneered the study of one particular family of 2D materials, based on ReS2 and ReSe2. These are highly unusual compared to more well-known 2D materials (e.g, MoS2) and offer a rich playground for fundamental nanoscience. One of our aims is to study atomically thin layers at low T and high magnetic fields, but it is difficult to locate microscopic samples in a conventional superconducting magnet.  
 This project will explore solutions to this problem using optical fibres with a 2D material placed across the fibre tip (using a printing technique available in our lab). This will allow the immersion of the sample into cryogenic liquids, cryostats or magnets without the need for low-temperature microscopy. The top figure (left) shows possible arrangements for studying (a) transmission and (b) luminescence in a range of 2D materials this way, including MoS2 and ReS2. In addition, the availability of speciality optical fibres through the Centre for Photonics and Photonic Materials will allow us to explore possible solutions to removing the strong silica background which would normally be present in such a setup by using custom optical fibres and devices which are otherwise not available to purchase commercially. 
  
-# YEAR 2016-17 (PH30036 & PH40065) 
+## YEAR 2016-17 (PH30036 & PH40065) 
 
 Site dependence of STM induced manipulation of single molecules 
 Students: Helena Williams & Connor Westby 
 Laboratory of Dr Peter Sloan 
  
  
-# YEAR 2015-16 (PH30036 & PH40065) 
+## YEAR 2015-16 (PH30036 & PH40065) 
 
 Regulating the femtosecond excited-state lifetime of a single molecule 
 Students: Ruairidh Howes & Frank Lee 
@@ -70,7 +70,7 @@ Published Papers:
  
 The key to controlling reactions of molecules induced with the current of a scanning tunneling microscope (STM) tip is the ultrashort intermediate excited ionic state. The initial condition of the excited state is set by the energy and position of the injected current; thereafter, its dynamics determines the reaction outcome. We show that a STM can directly and controllably influence the excited-state dynamics. For the STM-induced desorption of toluene molecules from the Si(111)-7x7 surface, as the tip approaches the molecule, the probability of manipulation drops by two orders of magnitude. A two-channel quenching of the excited state is proposed, consisting of an invariant surface channel and a tip height–dependent channel. We conclude that picometer tip proximity regulates the lifetime of the excited state from 10 femtoseconds to less than 0.1 femtoseconds. 
  
-# YEAR 2014-15 (PH30036 & PH40065) 
+## YEAR 2014-15 (PH30036 & PH40065) 
 
 Initiating and imaging the coherent surface dynamics of charge carriers in real space 
 Students: Nicola Bannister & Patrick Harrison 
