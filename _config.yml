@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: K. R. Rusimova
+title: Dr Kristina Rusimova
 email: k.r.rusimova@bath.ac.uk
 description: > # this means to ignore newlines until "url:"
-  STM and Light
+  STM, Atoms and Light
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
