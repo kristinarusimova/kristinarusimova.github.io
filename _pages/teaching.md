@@ -17,11 +17,11 @@ nav: true
   <a href="{{ project.url | relative_url }}">
   {% endif %}
   <div class="row">
+    {% if project.img %}
     <div class="col-sm-3 abbr">
-      {% if project.img %}
       <img class="rounded float-left z-depth-1" src="{{ project.img | relative_url }}" alt="project thumbnail">
-      {% endif %}
     </div>
+    {% endif %}
 
     <div class="col-sm-7">
       <span class="title">{{project.title }}</span>
