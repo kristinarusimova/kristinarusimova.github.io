@@ -10,14 +10,14 @@ years: 2020-
 ## YEAR 2020-2021 (PH30036 & PH40065) 
 
 ### Controlling the outcome of single molecule reactions 
-Students: Louis Remington & Jamie Greenwood 
+**Students: Louis Remington & Jamie Greenwood** 
  
 Much of modern science is built upon our ability not just to “see”, but to “touch” and even “move” individual atoms and molecules. At the heart of this capability is the scanning tunnelling microscope (STM). The original experiments that pioneered atomic manipulation some thirty years ago simply pushed or pulled atoms with the STM tip to spell out atomic adverts, or create quantum corrals. At Bath, we perform manipulation experiments which use the tunnelling electrons from the STM tip to invoke a molecular excitation. It is the natural evolution of the excited molecular state that leads to the final reaction outcome, and so controlling that reaction outcome has not yet been possible. 
  
 We recently showed that the STM tip can quench the lifetime of the excited state of molecules inside the STM tunnel junction. Your task will be to push these experiments even further and demonstrate that we can controllably influence the outcome of electron induced molecular reactions. You will use an ultrahigh vacuum STM to perform automated molecular manipulation experiments. Your aim will be not only to detect whether a manipulation event happened or not, but also to measure what happened and how. By investigating the branching ratio of different reaction outcomes as a function of manipulation parameters, you will check if the reaction outcome can be influenced by the manipulation process itself. 
  
-Measuring modes in hollow core fibres 
-Students: Danel Gomez Iradi & Aiden O'Sullivan 
+### Measuring modes in hollow core fibres 
+**Student: Danel Gomez Iradi**
  
 Research into new optical fibres requires us to understand the modes of light they guide. One way to measure the mode distribution in fibres is the spatially and spectrally resolved imaging (S2) method. This is based on the different group velocities of the modes, which leads to spectral interference patterns when broadband light propagates along the fibre, and also distinct spatial interference patterns between the fundamental mode and higher-order modes. Your task will be  
 to build such an S2 setup in the lab (see figure below from Nicholson, et al., Opt. Express, 16, 7233 (2008)) and use it to characterise novel designs of optical fibres. 
@@ -55,15 +55,15 @@ This project will explore solutions to this problem using optical fibres with a 
  
 ## YEAR 2016-17 (PH30036 & PH40065) 
 
-Site dependence of STM induced manipulation of single molecules 
-Students: Helena Williams & Connor Westby 
+### Site dependence of STM induced manipulation of single molecules 
+**Students: Helena Williams & Connor Westby** 
 Laboratory of Dr Peter Sloan 
  
  
 ## YEAR 2015-16 (PH30036 & PH40065) 
 
-Regulating the femtosecond excited-state lifetime of a single molecule 
-Students: Ruairidh Howes & Frank Lee 
+### Regulating the femtosecond excited-state lifetime of a single molecule 
+**Students: Ruairidh Howes & Frank Lee** 
 Laboratory of Dr Peter Sloan 
 Published Papers: 
 (1) Regulating the femtosecond excited-state lifetime of a single molecule, K. R. Rusimova, R. M. Purkiss, R. Howes, F. Lee, S. Crampin, and P. A. Sloan, Science, 361 (6406), 1012-1016 (2018) 
@@ -72,8 +72,8 @@ The key to controlling reactions of molecules induced with the current of a scan
  
 ## YEAR 2014-15 (PH30036 & PH40065) 
 
-Initiating and imaging the coherent surface dynamics of charge carriers in real space 
-Students: Nicola Bannister & Patrick Harrison 
+### Initiating and imaging the coherent surface dynamics of charge carriers in real space 
+**Students: Nicola Bannister & Patrick Harrison** 
 Laboratory of Dr Peter Sloan 
 Published Papers: 
 (1) Initiating and imaging the coherent surface dynamics of charge carriers in real space, K. R. Rusimova, N. Bannister, P. Harrison, D. Lock, S. Crampin, R. E. Palmer, and P. A. Sloan, Nature Communications, 7, 12839 (2016) 
