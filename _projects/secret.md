@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The Secret Light of Atoms
+title: Controlling and measuring photon emission from single atoms and single molecules
 description: >
-    You will use a scanning tunnelling microscope with state-of-the-art automation to study the nanometre and femtosecond dynamics of injected charge-carriers in novel quantum materials – 2D materials & organic molecules.
+    Fully funded PhD position available
 location: University of Bath
 img: /assets/img/secret.png
 importance: 1
@@ -18,6 +18,8 @@ The aim of this project is to establish coupled measurement of light emission an
  We are seeking applicants who are keen to develop their lab skills through working with an ultrahigh vacuum STM, light detection with optical fibres, quantum optical measurements and 2D materials. You will also be given the opportunity to develop transferable skills in lab automation and data analysis (python, LabVIEW).
 
 You will be expected to take part in weekly meetings of both research groups, including giving research and journal club presentations. As part of your soft skills training, you will be encouraged to attend summer schools and conferences, and take part in the Department’s outreach portfolio. There will also be strong opportunity for external collaboration.
+
+More details and application process: https://www.findaphd.com/phds/project/controlling-and-measuring-photon-emission-from-single-atoms-and-single-molecules/?p139669 
 
 1. Rusimova, et al. Science, 361, 1012-1016 (2018)
 2. Roslawska, et al. ACS Nano, 14(6), 6366-6375 (2020)
