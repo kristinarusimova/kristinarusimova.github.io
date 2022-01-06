@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Controlling and measuring photon emission from single atoms and single molecules
+title: The "secret" light of atoms
 description: >
     Fully funded PhD position available
 location: University of Bath
