@@ -6,11 +6,13 @@ description: ATOMIC SCALE LIGHT-MATTER INTERACTIONS
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: Rusimova K 29671-0025.jpg
 
 news: true
 social: true
 ---
+
+# Lab Overview
 
 We are an experimental physics research lab at the University of Bath that focuses on studying the ways in which light and matter interact on the atomic scale.
 
