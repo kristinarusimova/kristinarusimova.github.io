@@ -53,7 +53,8 @@ GEM
     faraday-em_http (1.0.0)
     faraday-em_synchrony (1.0.0)
     faraday-excon (1.1.0)
-    faraday-httpclient (2.0.0)
+    faraday-httpclient (2.0.1)
+      httpclient (>= 2.2)
     faraday-multipart (1.0.1)
       multipart-post (>= 1.2, < 3)
     faraday-net_http (2.0.1)
@@ -119,6 +120,7 @@ GEM
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.8.0)
+    httpclient (2.8.3)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.9.0)
@@ -247,6 +249,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    mini_portile2 (2.6.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -254,7 +257,8 @@ GEM
     minitest (5.15.0)
     multipart-post (2.1.1)
     namae (1.1.1)
-    nokogiri (1.12.5-x86_64-linux)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -298,11 +302,10 @@ GEM
     zeitwerk (2.5.3)
 
 PLATFORMS
-  x86_64-linux
+  ruby
 
 DEPENDENCIES
   github-pages
-  jekyll
   jekyll-email-protect
   jekyll-paginate-v2
   jekyll-scholar
@@ -310,4 +313,4 @@ DEPENDENCIES
   unicode_utils
 
 BUNDLED WITH
-   2.3.4
+   2.1.4
