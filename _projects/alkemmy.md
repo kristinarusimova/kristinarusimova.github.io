@@ -18,5 +18,5 @@ Alkali metal vapors enable access to single electron systems, suitable for demon
 
 **Rusimova, et al. Nat. Commun., 10, 2328 (2019)**
 
-**Patent: V. K. Valev, D. Slavov, K. Rusimova, W. Wadsworth, P. Mosley, “Nanoparticle coatings for alkali-metal vapour containers”, IP2423.1GB, filed 13/11/2018. **
+**Patent: V. K. Valev, D. Slavov, K. Rusimova, W. Wadsworth, P. Mosley, “Nanoparticle coatings for alkali-metal vapour containers”, IP2423.1GB, filed 13/11/2018.**
 
