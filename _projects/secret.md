@@ -21,7 +21,7 @@ You will be expected to take part in weekly meetings of both research groups, in
 
 More details and application process [here](https://www.findaphd.com/phds/project/controlling-and-measuring-photon-emission-from-single-atoms-and-single-molecules/?p139669).
 
-1. Rusimova, et al. Science, 361, 1012-1016 (2018)
-2. Roslawska, et al. ACS Nano, 14(6), 6366-6375 (2020)
-3. Rusimova, et al. Nat. Commun., 7, 12839 (2016)
-4. Purkiss, et al. J. of Phys. Commun., 3, 095010 (2019)
+**1. Rusimova, et al. Science, 361, 1012-1016 (2018)**
+**2. Roslawska, et al. ACS Nano, 14(6), 6366-6375 (2020)**
+**3. Rusimova, et al. Nat. Commun., 7, 12839 (2016)**
+**4. Purkiss, et al. J. of Phys. Commun., 3, 095010 (2019)**
