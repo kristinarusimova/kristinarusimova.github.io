@@ -9,7 +9,7 @@ importance: 1
 years: 2022-
 ---
 
-### Controlling and measuring photon emission from single atoms and single molecules
+## Controlling and measuring photon emission from single atoms and single molecules
 
 The aim of this project is to establish coupled measurement of light emission and atomic manipulation, enhanced with spectroscopic and single-photon correlation capabilities [1]. You will conduct experiments in well-equipped nanoscience and optical laboratories, while you also develop your analytic and computational skills as you collect and analyse your data. You will use a scanning tunnelling microscope (STM) with state-of-the-art automation to study the nanometre and femtosecond dynamics of injected charge-carriers in novel quantum materials. Supervised by Dr Kristina Rusimova and Dr Peter Sloan, you will be part of both the Photonics and Nanoscience research groups at Bath and you will join a cohort of graduate students within the Centre for Photonics and Photonic Materials.
 
@@ -19,7 +19,7 @@ The aim of this project is to establish coupled measurement of light emission an
 
 You will be expected to take part in weekly meetings of both research groups, including giving research and journal club presentations. As part of your soft skills training, you will be encouraged to attend summer schools and conferences, and take part in the Department’s outreach portfolio. There will also be strong opportunity for external collaboration.
 
-More details and application process: https://www.findaphd.com/phds/project/controlling-and-measuring-photon-emission-from-single-atoms-and-single-molecules/?p139669 
+More details and application process [here](https://www.findaphd.com/phds/project/controlling-and-measuring-photon-emission-from-single-atoms-and-single-molecules/?p139669).
 
 1. Rusimova, et al. Science, 361, 1012-1016 (2018)
 2. Roslawska, et al. ACS Nano, 14(6), 6366-6375 (2020)
