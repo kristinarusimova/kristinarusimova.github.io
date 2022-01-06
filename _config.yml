@@ -83,7 +83,6 @@ exclude: [vendor]
 plugins:
   - jekyll-email-protect
   - jekyll-paginate-v2
-  - jekyll-github-metadata
   - jekyll/scholar
   - jemoji
 
