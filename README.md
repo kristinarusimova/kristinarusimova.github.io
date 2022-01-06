@@ -1,7 +1,7 @@
 # kristinarusimova.github.io
 Personal website
 
-## Adding content
+## Adding content
 
 ### Add a top-level page
 
