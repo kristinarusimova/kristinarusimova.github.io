@@ -18,7 +18,7 @@ nav: true
   {%- endcapture -%}
 
   <!-- Only show citations for this year in the loop if any exist -->
-  {% if {{citecount}} != "0"  %}
+  {% if citecount != "0"  %}
     <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}}]* %}
   {% endif %}
