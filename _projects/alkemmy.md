@@ -2,6 +2,7 @@
 layout: page
 title: ALKEMMY
 description: Atomic dispensers for thermoplasmonic control of alkali vapor pressure in quantum optical applications
+location: University of Bath
 img: /assets/img/alkemmy.png
 importance: 1
 years: 2021-2022
