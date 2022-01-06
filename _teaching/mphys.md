@@ -2,9 +2,9 @@
 layout: page
 title: Final year projects 
 description: >
-    Final year projects
+    List of successful final year MPhys, MSci and BSc projects within our lab.
 location: University of Bath
-years: 2020-
+years: 2014-
 ---
 
 ## YEAR 2020-2021 (PH30036 & PH40065) 
