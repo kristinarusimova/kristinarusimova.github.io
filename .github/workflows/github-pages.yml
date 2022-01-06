@@ -1,6 +1,7 @@
 name: Build and deploy Jekyll site to GitHub Pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,5 +14,5 @@ jobs:
 
     - uses: helaili/jekyll-action@v2
       with:
-        token: ${{ secrets.JEKYLL_PAT }}
+        token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
