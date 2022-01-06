@@ -6,8 +6,6 @@ nav: true
 social: true
 ---
 
-### Conact details
-
 <k.r.rusimova@bath.ac.uk>
 
 Dr Kristina Rusimova,
