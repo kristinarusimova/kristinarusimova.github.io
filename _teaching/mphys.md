@@ -38,7 +38,7 @@ Published Papers:
 
 (2) Birefringent antiresonant hollow-core fibre, S. Yerolatsitis, R. Shurvinton, P. Song, R. J. A. Francis-Jones, and K. R. Rusimova, Proceedings of European Conference on Optical Communication, Tu2E3 (2019) 
 
-<img class="rounded float-right z-depth-1 small" src="{{ 'hcf.gif' | prepend: '/assets/img/' | relative_url }}">
+<!--- <img class="rounded float-right z-depth-1 small" src="{{ 'hcf.gif' | prepend: '/assets/img/' | relative_url }}"> --->
 
 <!---  Over the last 25 years, the telecommunications industry has been revolutionized thanks to the invention of the optical fibre. Optical fibres are made out of thin glass tubes that have been stretched out down to a wire no thicker than a human hair (a hundred microns). These tiny glass wires are capable of confining light and thereby transmitting information thanks to their structure. Typically, they have a radial solid core-cladding structure, where the core region has been doped with germanium to increase its refractive index. The light is confined to the core for several kilometres due to a mechanism called total internal reflection.   
  
