@@ -10,3 +10,6 @@ We operate in two main laboratory rooms that are specific to our group. The Atom
 
 
 <img class="rounded float-right z-depth-1 small" src="{{ '20130819-DSC_8566-001.jpg' | prepend: '/assets/img/' | relative_url }}">
+**Atomic Manipulation lab, Room 4W1.19**
+
+Room temperature Omicron STM 1
