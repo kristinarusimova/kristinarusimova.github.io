@@ -1,0 +1,97 @@
+// Typography
+
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: $body-font-size;
+  line-height: 22px;
+}
+
+.navbar-brand.title {
+  margin: 0 24px 0 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+}
+
+.about-header {
+  margin-bottom: 1rem;
+
+  a {
+    color: $text-color !important;
+  }
+}
+
+.title {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 10.5pt;
+  font-weight: 700;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700 !important;
+  font-size: 24pt;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700 !important;
+  font-size: 20pt;
+}
+
+h3 {
+  margin: 30px 0 0 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 12pt;
+}
+
+h4 {
+  margin: 2px 0 20px 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 12pt;
+}
+
+h5 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 10.5pt;
+  font-weight: 700;
+  margin: 16px 0 0 0;
+}
+
+h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 11pt;
+  color: #6C6C6C;
+  margin: 0;
+  line-height: 18px;
+}
+
+h7 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 7pt;
+  color: #6C6C6C;
+  line-height: 11px;
+}
+
+a,
+table.table a {
+  color: $theme-color;
+
+  &:hover {
+    color: $theme-color;
+    text-decoration: underline;
+  }
+
+  &:hover:after {
+    width: 100%;
+  }
+}
+
+.caption {
+  font-size: 8pt;
+  text-align: center;
+}

@@ -1,44 +1,61 @@
 /******************************************************************************
- * Content
+ * Re-usable style classes to be used within page content
  ******************************************************************************/
 
- body {
-   padding-bottom: 70px;
-   color: $text-color;
- }
-
- body.fixed-top-nav {
-   // Add some padding for the nav-bar.
-   padding-top: 56px;
- }
-
- body.sticky-bottom-footer {
-   // Remove padding below footer.
-   padding-bottom: 0;
- }
-
+// General content container
 .container {
   max-width: $max-content-width;
 }
 
-// Profile
-.profile {
-  img {
-    width: 100%;
-  }
+// Layout
+
+// Note: We have size classes for both width and height. These are useful depending on how
+// your content is aligned. E.g. for side-by-side images you likely want the heights of each
+// image to be the same. For images that are floating next to text, you likely want to fix
+// the width of the image.
+
+.small {
+  width: 200px;
 }
 
-// TODO: redefine content layout.
+.h-small {
+  height: 130px;
+}
 
+.medium {
+  width: 300px;
+}
 
-/******************************************************************************
- * Publications
- ******************************************************************************/
+.h-medium {
+  height: 200px;
+}
 
-// TODO: redefine publications layout.
+.large {
+  width: 500px;
+}
 
+.h-large {
+  height: 300px;
+}
 
-/*****************************************************************************
-* Projects
-*****************************************************************************/
+.small-margin {
+  margin: 5px;
+}
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+// Flex
+
+.center-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 32px 32px;
+}

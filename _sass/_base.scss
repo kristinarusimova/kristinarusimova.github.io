@@ -2,134 +2,23 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
-// Typography
+// Body classes
 
-body{
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-size: $body-font-size;
-  line-height: 22px;
+body {
+  padding-bottom: 70px;
+  color: $text-color;
 }
 
-.navbar-brand.title {
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
-  font-size: 18pt;
+// Body class when fixed top-nav is enabled
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 56px;
 }
 
-.about-header {
-  margin-bottom: 1rem;
-  a {
-    color: $text-color !important;
-  }
-}
-
-.title {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 10.5pt;
-  font-weight: 700;
-}
-
-h1 {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700 !important;
-  font-size: 24pt;
-}
-
-h2 {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700 !important;
-  font-size: 20pt;
-}
-
-h3 {
-  margin: 30px 0 0 0;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
-  font-size: 12pt;
-}
-
-h4 {
-  margin: 2px 0 20px 0;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 400;
-  font-size: 12pt;
-}
-
-h5 {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 10.5pt;
-  font-weight: 700;
-  margin: 16px 0 0 0;
-}
-
-h6 {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 600;
-  font-size: 11pt;
-  color: #6C6C6C;
-  margin: 0;
-  line-height: 18px;
-}
-
-h7 {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 600;
-  font-size: 7pt;
-  color: #6C6C6C;
-  line-height: 11px;
-}
-
-a, table.table a {
-  color: $theme-color;
-  &:hover {
-    color: $theme-color;
-    text-decoration: underline;
-  }
-  &:hover:after {
-    width: 100%;
-  }
-}
-
-.caption {
-  font-size: 8pt;
-  text-align: center;
-}
-
-// Layout
-
-.small {
-  width: 200px;
-}
-
-.medium {
-  width: 300px;
-}
-
-.large {
-  width: 500px;
-}
-
-.small-margin {
-  margin: 5px;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-// Flex
-
-.center-flex {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-  gap: 32px 32px;
+// Body class when sticky top-nav is enabled
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
 }
 
 // Math
@@ -142,11 +31,17 @@ a, table.table a {
 // Profile
 
 .profile {
-    .address {
-      p {
-        margin: 0;
-      }
+  .address {
+    p {
+      margin: 0;
     }
+  }
+}
+
+.profile {
+  img {
+    width: 100%;
+  }
 }
 
 
@@ -157,34 +52,43 @@ a, table.table a {
   border-bottom: 1px solid $grey-color-light;
   opacity: 0.95;
 }
+
 .navbar.navbar-light {
+
   // Remove link decoration
   a {
     &:hover {
       text-decoration: none;
     }
   }
+
   .navbar-nav .nav-item .nav-link {
     color: $grey-color;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     font-size: 11pt;
     text-decoration: none;
+
     &:hover {
       color: $grey-color-dark;
     }
   }
+
   .navbar-nav .nav-item.active>.nav-link {
-      background-color: inherit;
+    background-color: inherit;
+    color: $theme-color;
+
+    &:hover {
       color: $theme-color;
-      &:hover {
-        color: $theme-color;
-      }
+    }
   }
+
   .contact-icon {
     font-size: 2rem;
+
     a {
       color: $grey-color-dark;
+
       &:hover {
         color: $theme-color;
       }
@@ -202,13 +106,16 @@ a, table.table a {
     margin-bottom: 4px;
     transition: all 0.2s;
   }
+
   .top-bar {
     transform: rotate(45deg);
     transform-origin: 10% 10%;
   }
+
   .middle-bar {
     opacity: 0;
   }
+
   .bottom-bar {
     transform: rotate(-45deg);
     transform-origin: 10% 90%;
@@ -219,13 +126,16 @@ a, table.table a {
   .top-bar {
     transform: rotate(0);
   }
+
   .middle-bar {
     opacity: 1;
   }
+
   .bottom-bar {
     transform: rotate(0);
   }
 }
+
 
 
 // News
@@ -246,16 +156,20 @@ a, table.table a {
   margin-bottom: 2.5rem;
   text-align: center;
   line-height: initial;
+
   .contact-icon {
     font-size: 3rem;
+
     a {
       margin: 4px;
       color: $grey-color-dark;
+
       &:hover {
         color: $theme-color;
       }
     }
   }
+
   .contact-note {
     font-size: 0.8rem;
   }
@@ -268,12 +182,15 @@ footer.fixed-bottom {
   color: lighten($grey-color, 25%);
   background-color: $grey-color-dark;
   font-size: 0.75rem;
+
   .container {
     padding-top: 9px;
     padding-bottom: 8px;
   }
+
   a {
     color: white;
+
     &:hover {
       color: lighten($theme-color, 25%);
       text-decoration: none;
@@ -296,6 +213,7 @@ footer.sticky-bottom {
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 5rem;
+
   h1 {
     color: $theme-color;
     font-size: 5rem;
@@ -306,19 +224,23 @@ footer.sticky-bottom {
   margin: 0;
   margin-bottom: 40px;
   padding: 0;
+
   li {
     border-bottom: 1px solid $grey-color-light;
     list-style: none;
     padding-top: 2rem;
     padding-bottom: 2rem;
+
     .post-meta {
       color: $grey-color;
       font-size: 0.875rem;
       margin-bottom: 0;
     }
+
     a {
       color: $text-color;
       text-decoration: none;
+
       &:hover {
         color: $theme-color;
       }
@@ -328,6 +250,7 @@ footer.sticky-bottom {
 
 .pagination .page-item.active .page-link {
   background-color: $theme-color;
+
   &:hover {
     background-color: $theme-color;
   }
@@ -340,10 +263,12 @@ footer.sticky-bottom {
   a {
     color: $text-color;
     text-decoration: none;
+
     &:hover {
       color: $theme-color;
     }
   }
+
   h2.year {
     color: $grey-color-light;
     border-top: 1px solid $grey-color-light;
@@ -353,19 +278,23 @@ footer.sticky-bottom {
     text-align: right;
     min-height: 2em;
   }
-  .row {
-  }
+
+  .row {}
+
   .title {
     display: block
   }
+
   .location {
     display: block;
     font-style: italic;
   }
+
   .icon {
     font-size: 20px;
     margin-top: 8px;
   }
+
   img {
     width: 100%;
     margin-bottom: 1em;
@@ -377,6 +306,7 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+
   h2.year {
     color: $grey-color-light;
     border-top: 1px solid $grey-color-light;
@@ -385,6 +315,7 @@ footer.sticky-bottom {
     margin-bottom: -2rem;
     text-align: right;
   }
+
   ol.bibliography {
     list-style: none;
     padding: 0;
@@ -392,9 +323,11 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
+
         abbr {
           display: inline-block;
           background-color: $theme-color;
@@ -402,30 +335,38 @@ footer.sticky-bottom {
           padding-right: 1rem;
         }
       }
+
       span {
         display: block;
       }
+
       .author {
         a {
           border-bottom: 1px dashed $theme-color;
+
           &:hover {
-              border-bottom-style: solid;
-              text-decoration: none;
+            border-bottom-style: solid;
+            text-decoration: none;
           }
         }
-        > em {
+
+        >em {
           border-bottom: 1px solid;
           font-style: normal;
         }
       }
+
       em.star {
         border-bottom: none;
         color: $theme-color;
         font-style: normal;
       }
-      a.abstract, a.bibtex {
+
+      a.abstract,
+      a.bibtex {
         cursor: pointer;
       }
+
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
@@ -441,12 +382,14 @@ footer.sticky-bottom {
           line-height: 1.4em;
           margin: 10px;
         }
+
         pre {
           font-size: 1em;
           line-height: 1.4em;
           padding: 10px;
         }
       }
+
       .hidden.open {
         max-height: 100em;
         -webkit-transition: 0.15s ease;
@@ -455,9 +398,11 @@ footer.sticky-bottom {
         -o-transition: 0.15s ease;
         transition: all 0.15s ease;
       }
+
       span.abstract.hidden {
         border: dashed 1px white;
       }
+
       span.abstract.hidden.open {
         border-color: $grey-color;
       }
