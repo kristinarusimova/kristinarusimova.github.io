@@ -91,15 +91,45 @@ a, table.table a {
   }
 }
 
-.spotify {
-  color: $green-color !important;
-  font-weight: bold;
-  margin-right: 10px;
+.caption {
+  font-size: 8pt;
+  text-align: center;
 }
 
-.itunes {
-  color: $pink-color !important;
-  font-weight: bold;
+// Layout
+
+.small {
+  width: 200px;
+}
+
+.medium {
+  width: 300px;
+}
+
+.large {
+  width: 500px;
+}
+
+.small-margin {
+  margin: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+// Flex
+
+.center-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 32px 32px;
 }
 
 // Math
@@ -108,16 +138,6 @@ a, table.table a {
   margin-bottom: 1rem;
   text-align: center;
 }
-
-// Caption
-
-.caption {
-  font-size: 0.875rem;
-  margin-top: 0.75rem;
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
 
 // Profile
 
