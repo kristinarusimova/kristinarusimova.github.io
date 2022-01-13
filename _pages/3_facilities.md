@@ -14,8 +14,8 @@ We operate in two main laboratory rooms that are specific to our group. The Atom
     <p class="caption">Room temperature Omicron STM 1, Atomic Manipulation lab, Room 4W1.19</p>
   </div>
 
-  <div class="small">
-    <img class="rounded z-depth-1 small" src="{{ 'PXL_20220110_103712546.PORTRAIT.jpg' | prepend: '/assets/img/' | relative_url }}">
+  <div class="medium">
+    <img class="rounded z-depth-1 small" src="{{ 'PXL_20220110_103755305.PORTRAIT.jpg' | prepend: '/assets/img/' | relative_url }}">
     <p class="caption">Veeco Nanoscope IIIa Multimode AFM, Sample characterisation lab, Room 3W2.18c</p>
   </div>
 </div>
