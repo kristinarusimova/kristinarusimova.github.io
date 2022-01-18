@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ALKEMMY
+title: Alkali metal vapour spectroscopy
 description: Atomic dispensers for thermoplasmonic control of alkali vapor pressure in quantum optical applications
 location: University of Bath
 img: /assets/img/alkemmy.png
