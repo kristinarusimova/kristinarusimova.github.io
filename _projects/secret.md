@@ -2,7 +2,7 @@
 layout: page
 title: The "secret" light of atoms
 description: >
-    Fully funded PhD position available
+    Controlling and measuring photon emission from single molecules for renewable energy applications
 location: University of Bath
 img: /assets/img/secret.png
 importance: 1
