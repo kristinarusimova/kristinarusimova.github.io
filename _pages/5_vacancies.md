@@ -5,7 +5,7 @@ title: Vacancies
 nav: true
 ---
 
-Prospective PhD students can apply for our fully-funded PhD position [here](https://www.findaphd.com/phds/browsebydept.aspx?IID=280).
+24 month PDRA position to work on Innovate UK project "Hollow-core fibre cells for quantum memory" available.
 
 We are looking at hiring people in the general areas of surface science, nanophotonics, optical fibre fabrication, plasmonics or advanced materials. Applicants for self-funded scholarships (e.g. from [China Scholarship Council](https://www.bath.ac.uk/guides/applying-for-the-china-scholarship-council-university-of-bath-phd-programme/)) are also welcome. 
 
