@@ -6,7 +6,7 @@ description: >
 location: University of Bath
 img: /assets/img/secret.png
 importance: 1
-years: 2022-
+years: 
 ---
 
 The aim of this project is to establish coupled measurement of light emission and atomic manipulation, enhanced with spectroscopic and single-photon correlation capabilities [1]. You will conduct experiments in well-equipped nanoscience and optical laboratories, while you also develop your analytic and computational skills as you collect and analyse your data. You will use a scanning tunnelling microscope (STM) with state-of-the-art automation to study the nanometre and femtosecond dynamics of injected charge-carriers in novel quantum materials. Supervised by Dr Kristina Rusimova and Dr Peter Sloan, you will be part of both the Photonics and Nanoscience research groups at Bath and you will join a cohort of graduate students within the Centre for Photonics and Photonic Materials.
