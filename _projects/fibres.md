@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exotic hollow-core optical fibre design and fabrication
+title: Integrated and fibre optics
 description: >
     Design and characterisation of hollow-core optical fibres with exotic properties
 location: University of Bath
