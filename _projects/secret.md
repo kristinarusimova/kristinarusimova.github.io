@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The "secret" light of atoms
+title: Surface science
 description: >
     Controlling and measuring photon emission from single molecules for renewable energy applications
 location: University of Bath
