@@ -16,6 +16,8 @@ Alkali metal vapors enable access to single electron systems, suitable for demon
 
 **Funding:**
 
+  P. J. Mosley, J. C. Knight & K. R. Rusimova, BT, £317k (2022-2023)
+  
   P. J. Mosley & K. R. Rusimova, Innovate UK, £200k (2022-2023)
   
   P. J. Mosley, T. Birks & K. R. Rusimova, Innovate UK, £520k (2022-2025)
