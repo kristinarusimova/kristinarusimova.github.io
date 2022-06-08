@@ -48,7 +48,7 @@ For practical applications, one important property that optical fibres must have
  
 The aim of the project is to build an experimental setup that can be used to characterise the polarisation properties of hollow-core fibres and investigate the effects of the surrounding structure on different exotic designs of these fibres. If successful, this work will be the first demonstration of birefringence exhibited by this new generation of anti-resonant hollow-core fibres. --->
  
-### Spectroscopy of two-dimensional materials via optical fibres 
+#### Spectroscopy of two-dimensional materials via optical fibres 
 
 **Students: Thomas Street & Rosey Fort**
 
