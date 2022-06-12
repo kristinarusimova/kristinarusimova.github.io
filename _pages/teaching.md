@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Research
-permalink: /projects/
+title: Teaching
+permalink: /teaching/
 description: 
+
 nav: true
+order: 4
 ---
 
 <div class="projects">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-  {% for project in sorted_projects %}
+  {% assign sorted_teaching = site.teaching | sort: "importance" %}
+  {% for project in sorted_teaching %}
   <h2 class="year">{{project.years}}</h2>
   {% if project.redirect %}
   <a href="{{ project.redirect }}" target="_blank">
@@ -17,11 +19,11 @@ nav: true
   <a href="{{ project.url | relative_url }}">
   {% endif %}
   <div class="row">
+    {% if project.img %}
     <div class="col-sm-3 abbr">
-      {% if project.img %}
       <img class="rounded float-left z-depth-1" src="{{ project.img | relative_url }}" alt="project thumbnail">
-      {% endif %}
     </div>
+    {% endif %}
 
     <div class="col-sm-7">
       <span class="title">{{project.title }}</span>

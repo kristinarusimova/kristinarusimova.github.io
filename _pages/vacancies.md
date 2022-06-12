@@ -2,7 +2,9 @@
 layout: page
 permalink: /vacancies/
 title: Vacancies
+
 nav: true
+order: 5
 ---
 
 24 month PDRA position to work on Innovate UK project "Hollow-core fibre cells for quantum memory" available.
