@@ -26,4 +26,4 @@ Early-career PhD holders can apply for funding to work in the group through
 
 [Marie Sklodowska-Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships) (2 years, for applicants moving from outside the UK.)
 
-[Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships)(5 years for applicanats within 4 years of completing PhD degree.)
+[Royal Academy of Engineering](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships) (5 years for applicanats within 4 years of completing PhD degree.)
