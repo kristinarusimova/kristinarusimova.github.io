@@ -6,16 +6,22 @@ description: >
 location: University of Bath
 years: 2014-
 ---
-
-### YEAR 2020-2021 (PH30036 & PH40065) 
+### YEAR 2022-2023 (PH30036 & PH40065) 
 
 #### Controlling the outcome of single molecule reactions 
 
-**Students: Louis Remington & Jamie Greenwood** 
+**Students: Thomas Coates-Evans & Shean Ong** 
  
 <!--- Much of modern science is built upon our ability not just to “see”, but to “touch” and even “move” individual atoms and molecules. At the heart of this capability is the scanning tunnelling microscope (STM). The original experiments that pioneered atomic manipulation some thirty years ago simply pushed or pulled atoms with the STM tip to spell out atomic adverts, or create quantum corrals. At Bath, we perform manipulation experiments which use the tunnelling electrons from the STM tip to invoke a molecular excitation. It is the natural evolution of the excited molecular state that leads to the final reaction outcome, and so controlling that reaction outcome has not yet been possible. 
  
 We recently showed that the STM tip can quench the lifetime of the excited state of molecules inside the STM tunnel junction. Your task will be to push these experiments even further and demonstrate that we can controllably influence the outcome of electron induced molecular reactions. You will use an ultrahigh vacuum STM to perform automated molecular manipulation experiments. Your aim will be not only to detect whether a manipulation event happened or not, but also to measure what happened and how. By investigating the branching ratio of different reaction outcomes as a function of manipulation parameters, you will check if the reaction outcome can be influenced by the manipulation process itself. --->
+
+
+### YEAR 2021-2022 (PH30036 & PH40065) 
+
+#### Controlling the outcome of single molecule reactions 
+
+**Students: Louis Remington & Jamie Greenwood** 
  
 #### Measuring modes in hollow core fibres 
 
