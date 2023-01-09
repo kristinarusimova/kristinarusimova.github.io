@@ -9,7 +9,7 @@ order: 6
 social: true
 ---
 
-[View my current CV here]({% link /assets/docs/CV.pdf %})
+[View my current CV here]({% link /assets/docs/CV (4).pdf %})
 
 ### Contact Details
 
