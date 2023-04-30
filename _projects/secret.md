@@ -21,7 +21,7 @@ Rusimova, et al. Science, 361, 6406 (2018)
 
 Rusimova, et al. Nature Communications, 7, 12839 (2016)
 
-**Funding: **
+**Funding:**
 
 K. R. Rusimova, Royal Society, £70k (2023-2024)
 
