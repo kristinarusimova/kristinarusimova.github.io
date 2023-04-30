@@ -13,11 +13,19 @@ Over the last 25 years, the telecommunications industry has been revolutionized 
  
 Although standard fibres helped us to achieve so many advances in a very wide range of disciplines, they have their limits. For example, in telecommunications, we are reaching a  capacity crunch as we have reached the maximum amount of data that can be transmitted  simultaneously through a standard  telecom optical fibre. Here in Bath, we are investigating a new type of fibres called hollow-core fibres. In contrast to standard fibres, in hollow-core fibres, the light is guided in the air. This is achieved due to the structure of the fibre which consists of a ring of silica capillaries around the hollow core. The thin walls of the capillaries act as resonators, confining the light in the hollow core over a range of wavelengths.  These fibres open up an array of new applications in quantum technology, high power delivery, medical imaging, deep-UV and far-IR guidance, as well as light-matter interactions.
 
-**Selected publications:**
+## Selected publications
 
 Machnev, et al., Photonics Research, 9(8), 1462-1469 (2021)
 
 Yerolatsitis, et al., Journal of Lightwave Technology, 38(18), 5157-5162 (2020)
 
 Allen, et al., Physical Review Applied, 12, 044073 (2019)
+
+## Funding
+
+  P. J. Mosley, J. C. Knight & K. R. Rusimova, BT, £317k (2022-2023)
+  
+  P. J. Mosley & K. R. Rusimova, Innovate UK, £200k (2022-2023)
+  
+  P. J. Mosley, T. Birks & K. R. Rusimova, Innovate UK, £520k (2022-2025)
 
