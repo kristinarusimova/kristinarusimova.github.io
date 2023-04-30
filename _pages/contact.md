@@ -13,6 +13,8 @@ social: true
 
 ### Contact Details
 
+Interested in visiting, collaborating, or working with us? Drop us a line:
+
 <k.r.rusimova@bath.ac.uk>
 
 Dr Kristina Rusimova,<br> 
