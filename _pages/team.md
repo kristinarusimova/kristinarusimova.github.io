@@ -29,6 +29,8 @@ order: 3
 
 ## Alumni
 
+Dr Dewan Chowdhury, PhD student
+
 Thomas Coates-Evans, MPhys student
 
 Shean Ong, MPhys student
