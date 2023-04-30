@@ -8,7 +8,7 @@ nav: true
 order: 3
 ---
 
-## Current members:
+## Current members
 
 <div class="center-flex">
   <div class="medium">
@@ -27,7 +27,7 @@ order: 3
   </div>
 </div>
 
-## Alumni:
+## Alumni
 
 Thomas Coates-Evans, MPhys student
 
