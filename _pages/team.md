@@ -18,12 +18,12 @@ order: 3
 
   <div class="medium">
     <img class="rounded z-depth-1 h-medium" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
-    <p class="caption">Cameron McGarry, Postdoctoral Researcher</p>
+    <p class="caption">Dr Cameron McGarry, Postdoctoral Researcher</p>
   </div>
   
     <div class="medium">
     <img class="rounded z-depth-1 h-medium" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
-    <p class="caption">Paramita Pal, Postdoctoral Researcher</p>
+    <p class="caption">Dr Paramita Pal, Postdoctoral Researcher</p>
   </div>
 </div>
 
