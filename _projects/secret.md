@@ -2,7 +2,7 @@
 layout: page
 title: Surface science
 description: >
-    Shining light on single molecule dynamics
+    We use an STM in combination with optical techniques to study the dynamics of single atoms, molecules and hot charge carriers.
 location: University of Bath
 img: /assets/img/secret.png
 importance: 1
