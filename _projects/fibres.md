@@ -2,7 +2,7 @@
 layout: page
 title: Integrated and fibre optics
 description: >
-    Design and characterisation of hollow-core optical fibres with exotic properties
+    We design and make application specific anti-resonant hollow-core optical fibres.
 location: University of Bath
 img: /assets/img/bifi.png
 importance: 3
