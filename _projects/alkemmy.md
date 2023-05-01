@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum photonics
-description: Atomic dispensers for thermoplasmonic control of alkali vapor pressure in quantum optical applications
+description: We study the interaction between light and Rb vapour for applications in magnetometry and quantum computing.
 location: University of Bath
 img: /assets/img/alkemmy.png
 importance: 2
