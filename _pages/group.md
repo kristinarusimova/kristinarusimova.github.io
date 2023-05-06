@@ -5,7 +5,7 @@ permalink: /group/
 description: 
 
 nav: true
-order: 4
+order: 3
 ---
 
 ## Current members
@@ -26,7 +26,8 @@ order: 4
       <img class="rounded float-left z-depth-1" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
-      <p>Dr Cameron McGarry, Postdoctoral Researcher</p>
+      <span class="title">Dr Cameron McGarry, Postdoctoral Researcher</span>
+      <span class="description">Some bio</span>
     </div>
   </div>
 
@@ -35,7 +36,18 @@ order: 4
       <img class="rounded float-left z-depth-1" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
-      <p>Dr Paramita Pal, Postdoctoral Researcher</p>
+      <span class="title">Dr Paramita Pal, Postdoctoral Researcher</span>
+      <span class="description">Some bio</span>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">Dr Kristina Rusimova, Assistant Professor (Lecturer)</span>
+      <span class="description">Some bio</span>
     </div>
   </div>
 

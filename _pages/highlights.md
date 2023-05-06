@@ -5,7 +5,7 @@ permalink: /highlights/
 description: 
 
 nav: true
-order: 6
+order: 5
 ---
 
 Here are our research highlights....

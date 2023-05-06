@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 
 nav: true
-order: 8
+order: 7
 
 social: true
 ---
