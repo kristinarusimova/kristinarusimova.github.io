@@ -1,27 +1,27 @@
 ---
 layout: page
-title: The "secret" light of atoms
+title: Surface science
 description: >
-    Fully funded PhD position available
+    We use an STM in combination with optical techniques to study the dynamics of single atoms, molecules and hot charge carriers.
 location: University of Bath
 img: /assets/img/secret.png
 importance: 1
-years: 2022-
+years: 
 ---
 
-## Controlling and measuring photon emission from single atoms and single molecules
+The aim of this project is to establish coupled measurement of light emission and atomic manipulation, enhanced with spectroscopic and single-photon correlation capabilities. When a target molecule is excited by the tip of an STM, the ensuing dynamics are governed by quantum mechanics and the reaction outcome is, in all but the most restricted cases, probabilistic rather than deterministic. We aim to tackle this challenge  by using an STM to characterise individual chemical reactions, understand why different outcomes occur, and eventually cause  entirely new reactions to happen. Combining our state-of-the-art autmation with the recent advances in energy-resolved photon emission from STM, we aim to create a technology to characterise, decouple and, for the first time, control the quantum mechanical nature of single molecule reactions on a silicon surface, leading to programmable reaction outcomes. Such atomic-scale control of the outcome of chemical reactions holds the key to developing new molecular architectures that are not based on naturally occurring reactions and may create a new route to green chemistry.
 
-The aim of this project is to establish coupled measurement of light emission and atomic manipulation, enhanced with spectroscopic and single-photon correlation capabilities [1]. You will conduct experiments in well-equipped nanoscience and optical laboratories, while you also develop your analytic and computational skills as you collect and analyse your data. You will use a scanning tunnelling microscope (STM) with state-of-the-art automation to study the nanometre and femtosecond dynamics of injected charge-carriers in novel quantum materials. Supervised by Dr Kristina Rusimova and Dr Peter Sloan, you will be part of both the Photonics and Nanoscience research groups at Bath and you will join a cohort of graduate students within the Centre for Photonics and Photonic Materials.
+## Selected publications
 
- The tip of an STM can inject electrons into a surface with atomic precision and can thus instigate and measure the nanometre transport dynamics of individual charge quanta [2]. You will build upon our team’s recent breakthrough on silicon, where we showed that it is possible to use the STM to ‘trace’ the dynamics of hot charge-carriers both in real space [3] and in energy [4]. These pioneering experiments gave us a tool to access new physical phenomena that have been inaccessible before, and in a material that has been extensively explored and used in technology for over half a century. Thus, there is significant scope for investigating the dynamics and interactions between hot charge-carriers (electrons), excitons and photons in novel materials. Here, you will focus on novel 2D materials and single organic molecules (C60, dibenzoterrylene) that could have profound implications for solar energy harvesting.
+Sloan and Rusimova, Nanoscale Advances, 4, 4880-4885 (2022)
 
- We are seeking applicants who are keen to develop their lab skills through working with an ultrahigh vacuum STM, light detection with optical fibres, quantum optical measurements and 2D materials. You will also be given the opportunity to develop transferable skills in lab automation and data analysis (python, LabVIEW).
+Purkiss, et al. Journal of Physics Communications, 3, 095010 (2019)
 
-You will be expected to take part in weekly meetings of both research groups, including giving research and journal club presentations. As part of your soft skills training, you will be encouraged to attend summer schools and conferences, and take part in the Department’s outreach portfolio. There will also be strong opportunity for external collaboration.
+Rusimova, et al. Science, 361, 6406 (2018)
 
-More details and application process [here](https://www.findaphd.com/phds/project/controlling-and-measuring-photon-emission-from-single-atoms-and-single-molecules/?p139669).
+Rusimova, et al. Nature Communications, 7, 12839 (2016)
 
-1. Rusimova, et al. Science, 361, 1012-1016 (2018)
-2. Roslawska, et al. ACS Nano, 14(6), 6366-6375 (2020)
-3. Rusimova, et al. Nat. Commun., 7, 12839 (2016)
-4. Purkiss, et al. J. of Phys. Commun., 3, 095010 (2019)
+## Funding
+
+K. R. Rusimova, Royal Society, £70k (2023-2024)
+
