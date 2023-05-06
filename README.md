@@ -1,6 +1,20 @@
 # kristinarusimova.github.io
 Personal website
 
+## Setting up a codespace
+
+Once you're inside a codespace, run
+
+`source ./setup.sh`
+
+To launch your development site, run
+
+`bundle exec jekyll serve`
+
+If you still get an error about missing gems, run
+
+`bundle install` then re-run the serve command above.
+
 ## Adding content
 
 ### Add a top-level page
