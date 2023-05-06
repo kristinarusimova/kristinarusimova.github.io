@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
+#gem 'github-pages'
 gem 'unicode_utils'
 
 group :jekyll_plugins do
