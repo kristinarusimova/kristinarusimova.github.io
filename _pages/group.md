@@ -43,11 +43,11 @@ order: 3
 
   <div class="row">
     <div class="col-sm-3 abbr">
-      <img class="rounded float-left z-depth-1" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
+      <img class="rounded float-left z-depth-1" src="{{ 'Rusimova K 30481-0125[54].jpg' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
       <span class="title">Dr Kristina Rusimova, Assistant Professor (Lecturer)</span>
-      <span class="description">Some bio</span>
+      <span class="description">I obtained my PhD in atomic manipulation with the scanning tunnelling microscope from the University of Bath in 2016. Following a short postdoctoral position in photonics, I joined the Department of Physics at the University of Bath as an independent Prize Fellow in 2018 and as a tenured Lecturer (Assistant Professor) in 2021. In 2022 I was part of the team awarded the Royal Society of Chemistry’s Faraday Division Horizon Prize for the discovery of chiroptical harmonic scattering. My research interests include single molecule manipulation, quantum optics, advanced materials, and speciality optical fibres.</span>
     </div>
   </div>
 

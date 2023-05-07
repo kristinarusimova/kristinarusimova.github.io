@@ -102,7 +102,7 @@ order: 5
     </div>
   </div>
 
-    <div class="row">
+  <div class="row">
     <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'singlemol.jpeg' | prepend: '/assets/img/' | relative_url }}">
     </div>
