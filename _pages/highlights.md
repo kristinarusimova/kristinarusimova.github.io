@@ -5,7 +5,7 @@ permalink: /highlights/
 description: 
 
 nav: true
-order: 5
+order: 6
 ---
 
 <div class="projects">
