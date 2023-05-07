@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final year projects 
+title: "Projects" 
 description: >
     List of successful final year MPhys, MSci and BSc projects within our lab.
 location: University of Bath

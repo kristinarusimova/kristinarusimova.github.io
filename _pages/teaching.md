@@ -5,7 +5,7 @@ permalink: /teaching/
 description: 
 
 nav: true
-order: 5
+order: 4
 ---
 
 <div class="projects">
