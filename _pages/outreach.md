@@ -17,7 +17,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">31/03/2023:  <a href="https://www.vasilkunchov.com/">Vasil Kanchov High School, Vratsa, Bulgaria</a></span>
-      <span class="description">Gave a virtual presentation about my science to the classes in year 9 from Vasil Kanchov High School in Vratsa, Bulgaria.</span>
+      <span class="description">Dr Kristina Rusimova gave a virtual presentation about science to the classes in year 9 from Vasil Kanchov High School in Vratsa, Bulgaria.</span>
     </div>
 
    <div class="row">
@@ -126,7 +126,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">13/03/2018: <a href="https://www.newtownschool.co.uk/">Newtown Community Primary School</a> </span>
-      <span class="description">Dr Kristina Rusimova, lead Prof Ventsi Valev's team (Amanda Ho, Richard Degnan and James Fossey), who hosted a science workshop for 27 children from year 5, in Newtown Community Primary School, Trowbridge at the University of Bath. Artist Angel Greenham and Robert Cooper from Public Engagement at the University joined us as observers. Following the workshop, the children went for a lab visit.</span>
+      <span class="description">Dr Kristina Rusimova lead Prof Ventsi Valev's team (Amanda Ho, Richard Degnan and James Fossey), who hosted a science workshop for 27 children from year 5, in Newtown Community Primary School, Trowbridge at the University of Bath. Artist Angel Greenham and Robert Cooper from Public Engagement at the University joined us as observers. Following the workshop, the children went for a lab visit.</span>
     </div>
   </div>
 
@@ -177,7 +177,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">13/03/2017: <a href="https://stemforbritain.org.uk/">STEM for Britain Finals</a> </span>
-      <span class="description">Attended the finals of the STEM for Britain poster competition at the Houses of Parliament in London and engaged with MPs.</span>
+      <span class="description">Dr Kristina Rusimova attended the finals of the STEM for Britain poster competition at the Houses of Parliament in London and engaged with MPs.</span>
     </div>
   </div>
 
@@ -187,7 +187,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">08/05/2016:  <a href="http://www.mg-babatonka.bg/news.php">Baba Tonka High School, Ruse, Bulgaria</a></span>
-      <span class="description">Gave a presentation about surface science to a class of 26 students in year 11 from Baba Tonka High School of Mathematics in Ruse, Bulgaria.</span>
+      <span class="description">Dr Kristina Rusimova fave a presentation about surface science to a class of 26 students in year 11 from Baba Tonka High School of Mathematics in Ruse, Bulgaria.</span>
     </div>
   </div>
 
