@@ -6,7 +6,7 @@ description: ATOMIC SCALE LIGHT-MATTER INTERACTIONS
 
 profile:
   align: right
-  image: Rusimova K 30481-0125[54].jpg
+  image: Rusimova.png
 
 news: true
 social: true

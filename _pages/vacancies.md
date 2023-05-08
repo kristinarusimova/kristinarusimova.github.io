@@ -4,7 +4,7 @@ permalink: /vacancies/
 title: Vacancies
 
 nav: true
-order: 6
+order: 7
 ---
 
 We are looking at hiring people in the general areas of surface science, nanophotonics, optical fibre fabrication, plasmonics or advanced materials. Applicants for self-funded scholarships (e.g. from [China Scholarship Council](https://www.bath.ac.uk/guides/applying-for-the-china-scholarship-council-university-of-bath-phd-programme/)) are also welcome. 

@@ -17,7 +17,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">31/03/2023:  <a href="https://www.vasilkunchov.com/">Vasil Kanchov High School, Vratsa, Bulgaria</a></span>
-      <span class="description">Dr Kristina Rusimova gave a virtual presentation about science to the classes in year 9 from Vasil Kanchov High School in Vratsa, Bulgaria.</span>
+      <span class="description">Dr Kristina Rusimova gave a virtual presentation about her research to the classes in year 9 from Vasil Kanchov High School in Vratsa, Bulgaria.</span>
     </div>
 
    <div class="row">
@@ -66,7 +66,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">14/03/2023: <a href="https://www.stpatricks-wilts.co.uk/">St Patrick's Catholic Primary School</a> </span>
-      <span class="description">Together with Dr Robin Jones, Pieter Keenan, Athirah Rosli and John Kerr, we visited St Patrick's School in Corsham, where we worked with 50 children in years 5 and 6.</span>
+      <span class="description">Together with Dr Robin Jones, Pieter Keenan, Athirah Rosli and John Kerr, we visited St Patrick's School in Corsham, where we worked with 53 children in years 5 and 6.</span>
     </div>
   </div>
 
@@ -177,7 +177,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">13/03/2017: <a href="https://stemforbritain.org.uk/">STEM for Britain Finals</a> </span>
-      <span class="description">Dr Kristina Rusimova attended the finals of the STEM for Britain poster competition at the Houses of Parliament in London and engaged with MPs.</span>
+      <span class="description">Dr Kristina Rusimova attended the finals of the STEM for Britain poster competition at the Houses of Parliament in London and engaged with MPs about her research in surface science.</span>
     </div>
   </div>
 
@@ -187,7 +187,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">08/05/2016:  <a href="http://www.mg-babatonka.bg/news.php">Baba Tonka High School, Ruse, Bulgaria</a></span>
-      <span class="description">Dr Kristina Rusimova fave a presentation about surface science to a class of 26 students in year 11 from Baba Tonka High School of Mathematics in Ruse, Bulgaria.</span>
+      <span class="description">Dr Kristina Rusimova gave a presentation about surface science to a class of 26 students in year 11 from Baba Tonka High School of Mathematics in Ruse, Bulgaria.</span>
     </div>
   </div>
 
@@ -208,7 +208,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">10/11/2012: <a href="https://www.ralphallenschool.com/">Ralph Allen School</a></span>
-      <span class="description">Participated in an outrach workshop organised by IOP STEM at Ralph Allen School and led an activity on non-Newtonian fluids at the University of Bath Physics stand, engaging with school children and their parents.</span>
+      <span class="description">Participated in an outrach workshop organised by IOP STEM group at Ralph Allen School and led an activity on non-Newtonian fluids at the University of Bath Physics stand, engaging with school children and their parents.</span>
     </div>
   </div>
 </div>

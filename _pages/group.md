@@ -23,11 +23,11 @@ order: 3
 
   <div class="row">
     <div class="col-sm-3 abbr">
-      <img class="rounded float-left z-depth-1" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
+      <img class="rounded float-left z-depth-1" src="{{ 'Cameron.JPG' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
       <span class="title">Dr Cameron McGarry, Postdoctoral Researcher</span>
-      <span class="description">Some bio</span>
+      <span class="description">Cameron’s PhD at Imperial College London was in atomic and molecular physics, and he now brings this expertise to Bath as part of the team investigating fast low-loss optical switching. He is designing and implementing fibre-integrated photonic devices for use in quantum data centres, including switches, low-loss interconnects to hollow core fibre, and heralded single-photon sources.</span>
     </div>
   </div>
 
@@ -43,7 +43,7 @@ order: 3
 
   <div class="row">
     <div class="col-sm-3 abbr">
-      <img class="rounded float-left z-depth-1" src="{{ 'Rusimova K 30481-0125[54].jpg' | prepend: '/assets/img/' | relative_url }}">
+      <img class="rounded float-left z-depth-1" src="{{ 'Rusimova.png' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
       <span class="title">Dr Kristina Rusimova, Assistant Professor (Lecturer)</span>
