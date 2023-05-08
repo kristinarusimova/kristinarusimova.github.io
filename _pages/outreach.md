@@ -177,7 +177,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">13/03/2017: <a href="https://stemforbritain.org.uk/">STEM for Britain Finals</a> </span>
-      <span class="description">Dr Kristina Rusimova attended the finals of the STEM for Britain poster competition at the Houses of Parliament in London and engaged with MPs.</span>
+      <span class="description">Dr Kristina Rusimova attended the finals of the STEM for Britain poster competition at the Houses of Parliament in London and engaged with MPs about her research in surface science.</span>
     </div>
   </div>
 
