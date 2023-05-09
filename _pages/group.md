@@ -13,11 +13,11 @@ order: 3
 <div class="projects">
   <div class="row">
     <div class="col-sm-3 abbr">
-      <img class="rounded float-left z-depth-1" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
+      <img class="rounded float-left z-depth-1" src="{{ 'Pieter.jpg' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
       <span class="title">Pieter Keenan, PhD student</span>
-      <span class="description">Some bio</span>
+      <span class="description">Pieter obtained a BSc in Natural Sciences (Physics with Chemistry) from the University of Bath in 2021 and has also spent two years in Bristol undertaking particle physics research as part of the DUNE and SiD collaborations. He is excited to be back in Bath and to be combining the particle coding habits with the physics and chemistry while working with the STMs. He is aiming to establish coupled measurement of light emission and atomic manipulation, enhanced with spectroscopic and single-photon correlation capabilities.</span>
     </div>
   </div>
 
