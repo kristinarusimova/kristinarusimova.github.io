@@ -33,11 +33,11 @@ order: 3
 
   <div class="row">
     <div class="col-sm-3 abbr">
-      <img class="rounded float-left z-depth-1" src="{{ 'blank-profile-picture-g214929735_640.png' | prepend: '/assets/img/' | relative_url }}">
+      <img class="rounded float-left z-depth-1" src="{{ 'Paramita.jpg' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
       <span class="title">Dr Paramita Pal, Postdoctoral Researcher</span>
-      <span class="description">Some bio</span>
+      <span class="description">I joined the University of Bath in 2023 as a postdoctoral research associate to work on fibre-integrated technologies for next-generation mobile communications on a collaborative project with British Telecom. During my PhD, I worked on silicon photonics, in particular on the fabrication of rare-earth (erbium) doped silicon, silica-on-silicon substrates to build a planar waveguide platform for an integrated waveguide amplifier (EDWA) using Ultrafast Laser Plasma doping (ULPD) at the University of Leeds. I received my BSc and MSc degrees in physics from Jadavpur University, Kolkata, India. I have done several internships, working on micro pattern gaseous detectors (MPGDs) in CERN, Switzerland, in Saha Institute of Nuclear Physics (SINP), Kolkata, India and on multi crystalline silicon wafer solar cells in SERIS, National University of Singapore (NUS), Singapore.</span>
     </div>
   </div>
 
