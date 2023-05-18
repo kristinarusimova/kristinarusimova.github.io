@@ -13,12 +13,23 @@ Our team engages in many outreach activities, including workshops on science in 
 
   <div class="row">
     <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'LUNAR.png' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">11-14/05/2023:  <a href="https://festival-of-lights.de/en/lunar-festival-of-lights-sofia/">LUNAR Festival of Lights,Sofia, Bulgaria</a></span>
+      <span class="description">Dr Kristina Rusimova featured in the 2023 LUNAR Festival of Lights alongside her colleague Prof Ventsi Valev. The aim of the display was to highlight successful British-Bulgarian collaboration through art, culture and technology, and hopefully to inspire more people to pursue careers in STEM. </span>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-3 abbr">
      <!-- <img class="rounded float-left z-depth-1" src="{{ 'none.jpeg' | prepend: '/assets/img/' | relative_url }}">-->
     </div>
     <div class="col-sm-7">
       <span class="title">31/03/2023:  <a href="https://www.vasilkunchov.com/">Vasil Kanchov High School, Vratsa, Bulgaria</a></span>
       <span class="description">Dr Kristina Rusimova gave a virtual presentation about her research to the classes in year 9 from Vasil Kanchov High School in Vratsa, Bulgaria.</span>
     </div>
+  </div>
 
    <div class="row">
     <div class="col-sm-3 abbr">
@@ -26,7 +37,7 @@ Our team engages in many outreach activities, including workshops on science in 
     </div>
     <div class="col-sm-7">
       <span class="title">24/03/2023: <a href="https://www.wyedean.gloucs.sch.uk/">Wyedean School and Sixth Form Centre</a> </span>
-      <span class="description">Together with Dr Robin Jones, John Kerr, Dr Charlotte Parry, Ben Olohan and undergraduate studetns Ben Dowsett, Ollie Kirby, Leonardo Parilli, Nicholas Antoniou, and Shyan Memarjafari, we were visited by Wyedean School and Sixth Form Centre from Chepstow and we worked with 51 children in year 7. We also provided lab tours and a campus tour by Dr Robin Jones, Prof Ventsi Valev, Dr Kerrianne Harrington, and Ollie Kirby.</span>
+      <span class="description">Together with Dr Robin Jones, John Kerr, Dr Charlotte Parry, Ben Olohan and undergraduate students Ben Dowsett, Ollie Kirby, Leonardo Parilli, Nicholas Antoniou, and Shyan Memarjafari, we were visited by Wyedean School and Sixth Form Centre from Chepstow and we worked with 51 children in year 7. We also provided lab tours and a campus tour by Dr Robin Jones, Prof Ventsi Valev, Dr Kerrianne Harrington, and Ollie Kirby.</span>
     </div>
   </div>
 
