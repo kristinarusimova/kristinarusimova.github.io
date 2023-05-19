@@ -19,6 +19,17 @@ order: 6
     </div>
   </div>
 
+<div class="projects">
+   <div class="row">
+    <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'LUNAR.png' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">Bath physicists honoured in Sofia's annual Festival of Lights</span>
+      <span class="description"> Professor Ventsislav Valev and Dr Kristina Rusimova were last week featured in a light installation as part of the LUNAR Festival of Lights in Sofia. <a href="https://www.bath.ac.uk/announcements/bath-physicists-honoured-in-sofias-annual-festival-of-lights/">Full article</a></span>
+    </div>
+  </div>
+
  <div class="row">
     <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'vcday.jpeg' | prepend: '/assets/img/' | relative_url }}">
