@@ -24,4 +24,5 @@ Rusimova, et al. Nature Communications, 7, 12839 (2016)
 ## Funding
 
 K. R. Rusimova, The Royal Society, £70k (2023-2024)
+
 K. R. Rusimova, EPSRC, £590k (2024-2026)
