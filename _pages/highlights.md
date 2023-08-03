@@ -22,7 +22,7 @@ order: 6
 <div class="projects">
    <div class="row">
     <div class="col-sm-3 abbr">
-      <img class="rounded float-left z-depth-1" src="{{ 'rainbows.png' | prepend: '/assets/img/' | relative_url }}">
+      <img class="rounded float-left z-depth-1" src="{{ 'rainbow.png' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
       <span class="title">Can rainbows monitor the environment?</span>
