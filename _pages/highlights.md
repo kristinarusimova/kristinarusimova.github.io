@@ -19,6 +19,7 @@ order: 6
     </div>
   </div>
 
+
 <div class="projects">
    <div class="row">
     <div class="col-sm-3 abbr">
@@ -26,7 +27,7 @@ order: 6
     </div>
     <div class="col-sm-7">
       <span class="title">Can rainbows monitor the environment?</span>
-      <span class="description">New nanotechnology may make it easier to identify the chemical composition of impurities and their geometrical shape in samples of air, liquid and live tissue. <a href="[https://www.bath.ac.uk/announcements/bath-physicists-honoured-in-sofias-annual-festival-of-lights/](https://www.bath.ac.uk/announcements/can-rainbows-monitor-the-environment/)">Full article</a></span>
+      <span class="description">New nanotechnology may make it easier to identify the chemical composition of impurities and their geometrical shape in samples of air, liquid and live tissue. <a href="[https://www.bath.ac.uk/announcements/vcs-research-day-2023/](https://www.bath.ac.uk/announcements/can-rainbows-monitor-the-environment/)">Full article</a>.</span>
     </div>
   </div>
 
