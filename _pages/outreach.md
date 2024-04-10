@@ -9,7 +9,18 @@ order: 5
 
 Our team engages in many outreach activities, including workshops on science in primary schools, school visits to University, inspirational talks to high schools, and science festival stands for children and the wider public.
 
+
 <div class="projects">
+
+ <div class="row">
+    <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'outreachWyedean.jpg' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">24/03/2023: <a href="https://www.wyedean.gloucs.sch.uk/">Wyedean School and Sixth Form Centre</a> </span>
+      <span class="description">Together with Dr Soraya Caixeiro, Mat Olszewski, Athirah Rosli, John Kerr, Georgia Booton, Brad Kerrigan, and undergraduate studetns Ben Dowsett, Ollie Kirby, Thomas Mckinnon-Bell, and Ciaran Rees, we were visited by Wyedean School and Sixth Form Centre from Chepstow and we worked with 50 children in year 7. We also provided lab tours and a campus tour by Ollie Kirby.  </span>
+    </div>
+  </div>
 
   <div class="row">
     <div class="col-sm-3 abbr">
