@@ -9,7 +9,17 @@ order: 3
 ---
 
 ## Current members
-
+<div class="projects">
+  <div class="row">
+    <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'EricLundgren.jpg' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">Dr Eric Lundgren, PDRA</span>
+      <span class="description">Eric obtained his PhD from UCL in 2023, working at the London Center for Nanotechnology. He researched precursor molecules for atomic bismuth doping in silicon using an STM, and the applications of precision doping of single bismuth atoms for quantum device fabrication. Before this, Eric completed an MSci in Natural Sciences (Condensed Matter Physics and Inorganic Chemistry) at UCL, and undertook internships at the LCN and at Chalmers University of Technology. Eric have now joined Bath University seeking to build upon his STM knowledge through molecular manipulation and STM luminescence measurements, bridging the gap between STM and optics.</span>
+    </div>
+  </div>
+  
 <div class="projects">
   <div class="row">
     <div class="col-sm-3 abbr">
@@ -21,15 +31,7 @@ order: 3
     </div>
   </div>
 
-  <div class="row">
-    <div class="col-sm-3 abbr">
-      <img class="rounded float-left z-depth-1" src="{{ 'Cameron.JPG' | prepend: '/assets/img/' | relative_url }}">
-    </div>
-    <div class="col-sm-7">
-      <span class="title">Dr Cameron McGarry, Postdoctoral Researcher</span>
-      <span class="description">Cameron’s PhD at Imperial College London was in atomic and molecular physics, and he now brings this expertise to Bath as part of the team investigating fast low-loss optical switching. He is designing and implementing fibre-integrated photonic devices for use in quantum data centres, including switches, low-loss interconnects to hollow core fibre, and heralded single-photon sources.</span>
-    </div>
-  </div>
+
 
   <div class="row">
     <div class="col-sm-3 abbr">
@@ -53,6 +55,18 @@ order: 3
 
 </div>
 
+## Past Members
+
+  <div class="row">
+    <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'Cameron.JPG' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">Dr Cameron McGarry, Postdoctoral Researcher</span>
+      <span class="description">Cameron’s PhD at Imperial College London was in atomic and molecular physics, and he now brings this expertise to Bath as part of the team investigating fast low-loss optical switching. He is designing and implementing fibre-integrated photonic devices for use in quantum data centres, including switches, low-loss interconnects to hollow core fibre, and heralded single-photon sources.</span>
+    </div>
+  </div>
+  
 ## Alumni
 
 Dr Dewan Chowdhury, PhD student
