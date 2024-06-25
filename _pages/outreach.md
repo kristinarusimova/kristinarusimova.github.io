@@ -14,6 +14,16 @@ Our team engages in many outreach activities, including workshops on science in 
 
  <div class="row">
     <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'StMargarets.jpg' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">16/05/2024: <a href="https://www.stmargarets-school.org.uk/">St Margaret's Prep School</a> </span>
+      <span class="description">Together with Dr Eric Lundgren, Mat Olszewski, Pieter Keenan, and John Kerr, we visited St Margaret's Prep school in Calne and we worked with 24 children in years 4-7.  </span>
+    </div>
+  </div>
+
+ <div class="row">
+    <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'outreachWyedean.jpg' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
