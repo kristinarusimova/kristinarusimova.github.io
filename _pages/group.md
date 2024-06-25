@@ -20,7 +20,6 @@ order: 3
     </div>
   </div>
   
-<div class="projects">
   <div class="row">
     <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'Pieter.jpg' | prepend: '/assets/img/' | relative_url }}">
@@ -56,7 +55,7 @@ order: 3
 </div>
 
 ## Past Members
-
+<div class="projects">
   <div class="row">
     <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'Cameron.JPG' | prepend: '/assets/img/' | relative_url }}">
@@ -66,6 +65,7 @@ order: 3
       <span class="description">Cameron’s PhD at Imperial College London was in atomic and molecular physics, and he now brings this expertise to Bath as part of the team investigating fast low-loss optical switching. He is designing and implementing fibre-integrated photonic devices for use in quantum data centres, including switches, low-loss interconnects to hollow core fibre, and heralded single-photon sources.</span>
     </div>
   </div>
+</div>
   
 ## Alumni
 
