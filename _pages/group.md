@@ -19,7 +19,8 @@ order: 3
       <span class="description">I obtained my PhD from UCL in 2023, working at the London Center for Nanotechnology. I researched precursor molecules for atomic bismuth doping in silicon using an STM, and the applications of precision doping of single bismuth atoms for quantum device fabrication. Before this, I completed an MSci in Natural Sciences (Condensed Matter Physics and Inorganic Chemistry) at UCL, and undertook internships at the LCN and at Chalmers University of Technology. I have now joined Bath University seeking to build upon my STM knowledge through molecular manipulation and STM luminescence measurements, bridging the gap between STM and optics.</span>
     </div>
   </div>
-  
+  \n
+  \n
   <div class="row">
     <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'Pieter.jpg' | prepend: '/assets/img/' | relative_url }}">
