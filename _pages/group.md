@@ -20,7 +20,7 @@ order: 3
     </div>
   </div>
 
-    <div class="row">
+  <div class="row">
     <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'Rusimova.png' | prepend: '/assets/img/' | relative_url }}">
     </div>
@@ -30,7 +30,7 @@ order: 3
     </div>
   </div>
 
-      <div class="row">
+  <div class="row">
     <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'Rusimova.png' | prepend: '/assets/img/' | relative_url }}">
     </div>
