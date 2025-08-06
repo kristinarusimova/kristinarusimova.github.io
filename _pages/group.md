@@ -12,6 +12,36 @@ order: 3
 <div class="projects">
   <div class="row">
     <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'Rusimova.png' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">Rebecca Walters, PhD student</span>
+      <span class="description">The aim of my research is to fill hollow-core fibre with rubidium vapour in order to develop a platform for light - matter interactions which can be integrated with minimal loss to optical fibre networks. My research involves designing and fabricating fibre optimised for faster filling with rubidium, engineering techniques for filling the fibre, developing low-loss methods of integrating the fibre with conventional step-index fibre, as well as demonstrating light-matter interactions, such as electromagnetically induced transparency, within the filled fibre.</span>
+    </div>
+  </div>
+
+    <div class="row">
+    <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'Rusimova.png' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">Hannah Martin, PhD student</span>
+      <span class="description">My research focus is understanding the manipulation of molecules on silicon surfaces. Using a scanning tunelling microscope (STM) I aim to control current-driven splitting of an individual atom from a bromobenzene molecule. This will improve understanding of the fundamental dynamics of breaking the bond. Furthermore, I aim to computationally model the surface/molecule system using density functional theory (DFT) to understand the interaction and how the STM itself may influence the molecule-surface system.</span>
+    </div>
+  </div>
+
+      <div class="row">
+    <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'Rusimova.png' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">Charlie Perek-Jennings, PhD student</span>
+      <span class="description">The goal of my research is to, using plasmonic nanoparticles, design and test systems for the control of alkali vapour pressure in light matter interaction systems. My research exploits the photothermal response of plasmonic nanoparticles to convert light into localised thermal energy. This promotes desorption of alkali atoms from their container walls, allowing for fine control of vapour density. Vapour density control is a valuable tool in utilising light matter interaction for phenomena such as coherent population trapping or electromagnetically induced transparency.</span>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-3 abbr">
       <img class="rounded float-left z-depth-1" src="{{ 'EricLundgren.jpg' | prepend: '/assets/img/' | relative_url }}">
     </div>
     <div class="col-sm-7">
@@ -28,18 +58,6 @@ order: 3
     <div class="col-sm-7">
       <span class="title">Pieter Keenan, PhD student</span>
       <span class="description">Pieter obtained a BSc in Natural Sciences (Physics with Chemistry) from the University of Bath in 2021 and has also spent two years in Bristol undertaking particle physics research as part of the DUNE and SiD collaborations. He is excited to be back in Bath and to be combining the particle coding habits with the physics and chemistry while working with the STMs. He is aiming to establish coupled measurement of light emission and atomic manipulation, enhanced with spectroscopic and single-photon correlation capabilities.</span>
-    </div>
-  </div>
-
-
-
-  <div class="row">
-    <div class="col-sm-3 abbr">
-      <img class="rounded float-left z-depth-1" src="{{ 'Paramita.jpg' | prepend: '/assets/img/' | relative_url }}">
-    </div>
-    <div class="col-sm-7">
-      <span class="title">Dr Paramita Pal, Postdoctoral Researcher</span>
-      <span class="description">I joined the University of Bath in 2023 as a postdoctoral research associate to work on fibre-integrated technologies for next-generation mobile communications on a collaborative project with British Telecom. During my PhD, I worked on silicon photonics, in particular on the fabrication of rare-earth (erbium) doped silicon, silica-on-silicon substrates to build a planar waveguide platform for an integrated waveguide amplifier (EDWA) using Ultrafast Laser Plasma doping (ULPD) at the University of Leeds. I received my BSc and MSc degrees in physics from Jadavpur University, Kolkata, India. I have done several internships, working on micro pattern gaseous detectors (MPGDs) in CERN, Switzerland, in Saha Institute of Nuclear Physics (SINP), Kolkata, India and on multi crystalline silicon wafer solar cells in SERIS, National University of Singapore (NUS), Singapore.</span>
     </div>
   </div>
 
@@ -67,6 +85,16 @@ order: 3
     </div>
   </div>
 </div>
+
+  <div class="row">
+    <div class="col-sm-3 abbr">
+      <img class="rounded float-left z-depth-1" src="{{ 'Paramita.jpg' | prepend: '/assets/img/' | relative_url }}">
+    </div>
+    <div class="col-sm-7">
+      <span class="title">Dr Paramita Pal, Postdoctoral Researcher</span>
+      <span class="description">I joined the University of Bath in 2023 as a postdoctoral research associate to work on fibre-integrated technologies for next-generation mobile communications on a collaborative project with British Telecom. During my PhD, I worked on silicon photonics, in particular on the fabrication of rare-earth (erbium) doped silicon, silica-on-silicon substrates to build a planar waveguide platform for an integrated waveguide amplifier (EDWA) using Ultrafast Laser Plasma doping (ULPD) at the University of Leeds. I received my BSc and MSc degrees in physics from Jadavpur University, Kolkata, India. I have done several internships, working on micro pattern gaseous detectors (MPGDs) in CERN, Switzerland, in Saha Institute of Nuclear Physics (SINP), Kolkata, India and on multi crystalline silicon wafer solar cells in SERIS, National University of Singapore (NUS), Singapore.</span>
+    </div>
+  </div>
   
 ## Alumni
 
